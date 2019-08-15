@@ -17,6 +17,6 @@
     "ve-sequence-utils": "^1.0.0"
   },
   "devDependencies": {
-    "chai": "^3.2.0"
+    "chai": "^4.2.0"
   }
 }
